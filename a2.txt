@@ -1,0 +1,3 @@
+name = djdj
+city = jdbdj
+college = dk
